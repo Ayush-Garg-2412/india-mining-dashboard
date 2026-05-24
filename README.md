@@ -5,6 +5,9 @@ A strategic analytics dashboard tracking India's mining sector performance from 
 ## Live App
 [View Dashboard](https://india-mining-dashboard-6sskz4hps54atmcnhsra54.streamlit.app/)
 
+## Product Requirements Document
+[View PRD on Notion](https://www.notion.so/India-Mining-Sector-Intelligence-Dashboard-Product-Requirements-Document-36a498808e93805fb35fe1028f494962?source=copy_link)
+
 ## What it does
 - Tracks total mining value growth across 15 years (367% increase)
 - Compares Fuels vs Metallic mineral sector performance
